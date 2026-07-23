@@ -1,0 +1,20 @@
+{
+  "lists": [
+    {
+      "slug": "kruthik",
+      "title": "Kruthik's List",
+      "sections": [
+        { "title": "School", "people": ["Gunda & Family", "Moti & Family", "Sheki & Family", "Rotta & Family", "Prajju", "Meese", "Partner", "Bhatta & Family", "Malli", "Yashwanth"] },
+        { "title": "Thota Friends", "people": ["Vinay", "Charan", "Chandan", "Manoj"] },
+        { "title": "PU College", "people": ["Thotu", "Vallabh", "Vivek", "Kedar", "Nitesh"] },
+        { "title": "AIT", "people": ["MD & Family", "Naresh", "Inchara", "Gagana", "Chiru", "Bhavana", "Anirudh & Family", "Gagan & Family (2 + 3 + 3)", "Ajay", "Badri", "Uma", "Gagan (Kulla)", "Patil", "Preetham", "Rahul", "Yasaswini"] },
+        { "title": "New Team", "people": ["Ashok", "Shain", "Kavya", "Rambabu", "Umesh", "Jagadish", "Varshitha", "Keerthi", "Anusha", "Giri", "Shanth"] },
+        { "title": "Old Team", "people": ["Aastha", "Chandana", "Supreet", "Sunil", "Baljeet", "Raj", "Guru", "Linto", "Henny", "Satheesh", "Raghu", "Hemanth", "Vinodh"] },
+        { "title": "Seniors", "people": ["Nuthan", "Ritesh", "Sanjay", "Nippam", "Parthu", "Pradeep", "Suhas"] },
+        { "title": "North Gang", "people": ["Akhil", "Shruthi", "Yogesh", "Sparsh", "Suhas"] },
+        { "title": "BE/FE Office", "people": ["Pradeep", "Govind", "Karthik", "Sneha", "Laxman", "Jeevan", "Aruna"] }
+      ]
+    },
+    { "slug": "brother", "title": "Brother's List", "sections": [{ "title": "School Friends", "people": [] }, { "title": "Office Friends", "people": [] }] }
+  ]
+}
